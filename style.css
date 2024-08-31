@@ -1,0 +1,45 @@
+.head{
+    color:darkmagenta
+}
+
+.sessions>li> h3{
+    color: green;
+}
+
+.batch>li> h4{
+    color: red;
+}
+
+.tech h4{
+    color: coral;
+}
+
+.class1~.class2{
+    color: rgb(129, 219, 129);
+}
+
+.tech>ol>.class1{
+    color: chocolate;
+}
+
+.class2+.class3{
+    color: darkorchid;
+}
+
+.project1>.class3{
+    color: darkgoldenrod;
+}
+
+.project2>.class1{
+    color:aquamarine;
+}
+
+.project3>.class1{
+    color:cornflowerblue
+}
+
+body {
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
